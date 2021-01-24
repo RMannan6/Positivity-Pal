@@ -1,6 +1,6 @@
 # Positivity-Pal
 
-Positivity Pal is a mental health virtual assistant that asks the user how they are feeling and responds positively to the user's input.
+Positivity Pal is a mental health virtual assistant chatbot that asks the user how they are feeling and responds positively to the user's input.
 
 1. Download Google Assistant to Your Phone:
 We recommend downloading the Google Assistant to your Android or iOS phone by going to the following hyperlink: https://assistant.google.com/platforms/phones/
